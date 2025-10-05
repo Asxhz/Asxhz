@@ -2,7 +2,7 @@ Hello There! I am Ashmit Sethi! ![](https://user-images.githubusercontent.com/18
 =====================================================================================================================================
 
 * 🌍  I'm based in the Bay Area, CA! 
-* 🖥️  See my portfolio at [My Site!](http://www)
+* 🖥️  See my portfolio at [My Site!](https://asxhz.github.io/Portfolio/)
 * ✉️  You can contact me at [ashmit@berkeley.edu](mailto:ashmit@berkeley.edu)
 * You can set up a call with me at [Link](https://www.cal.com/ashmits)
 
